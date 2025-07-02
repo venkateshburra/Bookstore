@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b23fce17-2a67-4967-9fc2-a2d591c71147",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2019,
+    "userId": "dda9e4cc-d2d2-43db-9813-72b04d7dcfbd",
+    "created_by": "burravenkatesh284@gmail.com"
+  },
+  {
+    "id": "81ebc1bc-4866-4e09-a305-bb613070f64e",
+    "title": "The Silent Patient 1",
+    "author": "Alex Michaelides",
+    "genre": "Psychological Thriller",
+    "publishedYear": 2019,
+    "userId": "ebcec955-c2ad-4334-a2de-ea14e9c7b430",
+    "created_by": "mahesh284@gmail.com"
+  },
+  {
+    "id": "880d7e33-8002-463b-bdde-4a9b6c8fc48e",
+    "title": "hello",
+    "author": "James",
+    "genre": "Self-help",
+    "publishedYear": 1998,
+    "userId": "4d4d7363-ef59-4411-8e12-93a8f85c79a7",
+    "created_by": "navya123@gmail.com"
+  }
+]
